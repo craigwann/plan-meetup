@@ -9,11 +9,19 @@ If you would like to opt out of the independent project, reflect on your experie
 
 * Who/what organization coordinated the event? If there were speakers, who spoke?<br>
 `Planet Argon with speaker: Michelle Levine - Front End Web Developer`
-* What was the format of the event?
-* What was the topic or main focus of the event?
-* What made you want to attend this particular event?
-* What was the highlight of the event?
-* What did you learn from this experience?
-* If you could give feedback to the coordinators of the event, what would it be? (Many events send out surveys and ask for feedback. Giving constructive feedback is a great way to contribute to the tech community.)
-* Would you recommend the event (or a similar event) to your peers?
-* Is there anything else that stood out about the event? Please feel free to add additional notes.
+* What was the format of the event?<br>
+`Casual get together with pizza and single speaker`
+* What was the topic or main focus of the event?<br>
+`Building a community and finding your place in existing communities.`
+* What made you want to attend this particular event?<br>
+`Jr Developer`
+* What was the highlight of the event?<br>
+`I thought Michelle/Jordan was a great speaker for someone who considered herself to be initially anti-social and not liking people in her youth. Most of the talk was about her path and how she got where she is currently.`
+* What did you learn from this experience?<br>
+`Get involved with the tech communities. By being involved you end up making the connections needed to excel.`
+* If you could give feedback to the coordinators of the event, what would it be? (Many events send out surveys and ask for feedback. Giving constructive feedback is a great way to contribute to the tech community.)<br>
+`I'd like to see more speakers from other various coding avenues. It was interesting that she has made a career being a CSS coder but I'd like to see other languages and industries.`
+* Would you recommend the event (or a similar event) to your peers?<br>
+`Absolutely, we are, by definition aspiring Jr. Dev's.  Seems like a great place to start the career-long aspect of networking.`
+* Is there anything else that stood out about the event? Please feel free to add additional notes.<br>
+`I really enjoyed talking/networking with the other participants. Many of them were from competing code school bootcamps.`
