@@ -1,4 +1,4 @@
-# README
+# Capstone Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+current working repository fom my capstone project is here:
+https://github.com/craigwann/game.git
